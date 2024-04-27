@@ -19,3 +19,6 @@ To predict house price we need to consider lot of factors like location, year of
 | 11 |            |                      |
 | 12 |            |                      |
 | 13 |            |                      |
+
+| Identifies the type of dwelling involved in the sale. |
+| ----------------------------------------------------- |
